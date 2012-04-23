@@ -6,7 +6,7 @@ Fork
 
 This fork contains source codes only in order to speed up installation as a CocoaPod.
 
-* [CocosPod Specs for cocos2d-iphone-extensions](https://github.com/l4u/cocos2d-iphone-podspec)
+* [CocosPod Specs for cocos2d-iphone-extensions](https://github.com/CCPods/CCPods-specs)
 * [Original cocos2d-iphone-extensions](https://github.com/cocos2d/cocos2d-iphone-extensions)
 
 Introduction 
